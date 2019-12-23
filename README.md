@@ -1,2 +1,2 @@
-# wordpress-theme-template
-A basic Wordpress theme template
+# wordpress-theme-boilerplate
+A basic Wordpress theme boilerplate based on BlankSlate by TidyThemes (https://wordpress.org/themes/blankslate/) 
